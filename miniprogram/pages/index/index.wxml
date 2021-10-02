@@ -1,0 +1,1 @@
+<button bind:tap="chooseImage">图片审核</button>
